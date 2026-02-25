@@ -6,7 +6,7 @@ Thanks for your interest in contributing! Paybound is in pre-alpha and we welcom
 
 ```bash
 # Clone the repo
-git clone https://github.com/pando-b/paybound.git
+git clone https://github.com/cartwrightj/paybound.git
 cd paybound
 
 # Install dependencies (requires pnpm)
